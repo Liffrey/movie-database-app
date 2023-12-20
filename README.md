@@ -1,3 +1,10 @@
+# Create Movie Database React App
+- Create new project `npx create-react-app movie-database-app`
+- Navigate the folder `cd movie-database-app`
+- Install dependencies `npm install axios`
+- Create component folder `mkdir src/components`
+- Create components
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
